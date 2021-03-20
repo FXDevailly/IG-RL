@@ -1,0 +1,9 @@
+<configuration>
+    <input>
+        <net-file value="myNet.net.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="10000"/>
+    </time>
+</configuration>
