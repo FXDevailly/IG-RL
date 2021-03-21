@@ -1,0 +1,13 @@
+networkx==2.4
+sumolib.egg==info
+traci.egg==info
+numpy==1.18.5
+pathos==0.2.6
+matplotlib==3.3.1
+dgl==0.4.3.post2
+interruptingcow==0.8
+torch==1.6.0
+ipython==7.21.0
+scikit_learn==0.24.1
+sumolib==1.8.0
+traci==1.8.0
