@@ -10,6 +10,10 @@ To create your own experiment(s), you can proceed as follows :
 
 1) Create a folder/arborescence under the config folder (e.g. config/binary/New_Exp/)
 2) Under this new folder, create one or multiple .ini files with your own settings/hyperparameters. Multiple examples of such .ini files can be found. For instance, config/binary/GCN/Q_L/Train/BINARY_GEN_GCN_IQL.ini
+
+- Note : There are many settings/hyperparameters in complete .ini config files. settings.ini enumerates the most important/interesting settings (with their descriptions). 
+- You can identify the settings you're interested in using settings.ini and look for this setting in a complete .ini file to modify it accordingly.
+
 3) Create one last .ini file at the same location, pointing toward all the .ini files you intend to include in a given run. Multiple examples of such .ini files can be found. For instance, config/binary/GCN/Train/Train_all.ini
 4) Execute : $python main.py --config-dir={path to the last .ini file mentioned in the previous step}
 
