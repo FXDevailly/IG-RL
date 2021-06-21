@@ -1,5 +1,7 @@
 # IG-RL : Inductive Graph Reinforcement Learning for Massive-Scale Traffic Signal Control
 This repository contains code provided alongside the paper : Inductive Graph Reinforcement Learning for Massive-Scale Traffic Signal Control
+https://ieeexplore.ieee.org/document/9405489
+https://arxiv.org/pdf/2003.05738.pdf
 
 'requirements.txt' lists required dependencies
 'code_structure.png' illustrates the structure of the code (for the training of IG-RL). Please note that it was designed with a '2-gpus setting' in mind, as illustrated.
@@ -26,3 +28,5 @@ Results typically include tensorboard logs :
   - For experiments involving evaluation, these logs include aggregated performance metrics (queue_lengths, delays, CO2 emissions, etc.)
 For experiments involving evaluations, .pkl files include detailed per-trip information (delay, duration, etc.)
 
+
+Note : We are currently working on a new (improved) version of the code for IG-RL. A link will be added to this repository as soon as it becomes available. 
