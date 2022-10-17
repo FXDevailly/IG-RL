@@ -1,6 +1,7 @@
 # IG-RL : Inductive Graph Reinforcement Learning for Massive-Scale Traffic Signal Control
 This repository contains code provided alongside the paper : Inductive Graph Reinforcement Learning for Massive-Scale Traffic Signal Control
 https://ieeexplore.ieee.org/document/9405489
+
 https://arxiv.org/pdf/2003.05738.pdf
 
 Also check out the new model-based inductive model (MuJAM : Joint Action Modeling with MuZero) which builds upon IG-RL: 
