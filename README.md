@@ -3,7 +3,7 @@ This repository contains code provided alongside the paper : Inductive Graph Rei
 https://ieeexplore.ieee.org/document/9405489
 https://arxiv.org/pdf/2003.05738.pdf
 
-Also check out a new model-based inductive which builds upon IG-RL: 
+Also check out the new model-based inductive model (MuJAM : Joint Action Modeling with MuZero) which builds upon IG-RL: 
 https://arxiv.org/pdf/2208.00659.pdf
 
 'requirements.txt' lists required dependencies
